@@ -46,7 +46,7 @@ class IMultiChannelBehavior(form.Schema):
     form.fieldset(
         'multichannel',
         label=('Multichanne'),
-        fields=('contentMedias'),
+        fields=('contentMedias',),
     )
 
     contentMedias = schema.Choice(vocabulary=contentMediasVocabury,
