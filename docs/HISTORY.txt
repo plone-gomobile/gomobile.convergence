@@ -7,6 +7,12 @@ Unreleased
 * Plone 4.3 compatibility [sureshvv]
 
 
+1.0.4 (unreleased)
+------------------
+
+- Nothing changed yet.
+
+
 1.0.3 (2015-03-14)
 ------------------
 
