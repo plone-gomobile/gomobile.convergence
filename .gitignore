@@ -1,2 +1,4 @@
 *.pyc
 gomobile.convergence.egg-info
+gomobile/convergence/i18n/gomobile.convergence-plone-*.mo
+gomobile/convergence/locales/*/LC_MESSAGES/gomobile.convergence.mo
