@@ -1,12 +1,6 @@
 Changelog
 =========
 
-Unreleased
-----------
-
-* Plone 4.3 compatibility [sureshvv]
-
-
 1.0.4 (unreleased)
 ------------------
 
@@ -15,6 +9,8 @@ Unreleased
 
 1.0.3 (2015-03-14)
 ------------------
+
+* Plone 4.3 compatibility [sureshvv]
 
 * Properly uninstall overridden document snippets (title, description)  [miohtama]
 
