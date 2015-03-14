@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Unreleased
+----------
+
+* Plone 4.3 compatibility [sureshvv]
+
+
 1.0.1 - 1.0.2
 ---------------
 
