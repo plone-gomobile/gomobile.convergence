@@ -7,8 +7,8 @@ Unreleased
 * Plone 4.3 compatibility [sureshvv]
 
 
-1.0.1 - 1.0.2
----------------
+1.0.3 (2015-03-14)
+------------------
 
 * Properly uninstall overridden document snippets (title, description)  [miohtama]
 
